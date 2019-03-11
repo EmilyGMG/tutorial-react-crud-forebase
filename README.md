@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+   <h2>How to install</h2>
+   <p>npm install --save firebase</p>
+   <p>npm install --save react-router-dom</p>
+   <p>npm install --save-dev bootstrap</p>
+   <p>npm start</p>
+   
 ## Available Scripts
 
 In the project directory, you can run:
